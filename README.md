@@ -1,2 +1,1 @@
-"# naturalsafe" 
-# calentadordetoallitasalexa
+Basurero inteligente
